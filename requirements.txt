@@ -7,3 +7,4 @@ seaborn
 ta
 plotly
 scipy
+ipython
